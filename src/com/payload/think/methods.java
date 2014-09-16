@@ -4,8 +4,7 @@ package com.payload.think;
 public class methods {
 
     public static String printName(String name){
-       String output = "Your name is :" + name;
-        return output;
+        return "Your name is :" + name;
     }
 
     public static void main(String[] args) {
