@@ -16,7 +16,7 @@ public class robo {
 			speed = 1;
 		}
 		else {
-			status = "Happy here, dont disturb me";
+			status = "Happy here, don't disturb me";
 			speed = 3;
 		}
 	}
